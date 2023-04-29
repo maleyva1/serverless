@@ -6,7 +6,9 @@ application on AWS Lambda.
 ## Requirements
 
 [awslambda](https://github.com/lambci/awslambda.nim)
+
 [Nim](https://github.com/nim-lang/Nim) >= 1.6.0
+
 `unzip`
 
 ### Deployment
